@@ -1,0 +1,7 @@
+Apps:
+  SimpleContractSolidity:
+    Name: GetSetContract
+    Description: Solidity Get Set Smart Contract to test passing identities meta for Ethereum
+    path: /contract/GetSetContract.sol
+    language: solidity
+    README: https://github.com/rajatxooa/simpleContract/blob/master/README.md
